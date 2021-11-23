@@ -1,5 +1,5 @@
-# Hakkimda
+# Hakkımda
 
-## Kodluyoruz HTML ODEV 1
+## Kodluyoruz HTML ÖDEV 1
 
 HTML patikası için tamamladığım ilk ödevim.
